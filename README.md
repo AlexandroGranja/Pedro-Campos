@@ -9,7 +9,7 @@
 Este é um portfólio profissional desenvolvido pela **Agência de IA** para apresentar os trabalhos e serviços de Pedro Campos. O projeto utiliza tecnologias web modernas e inteligentes, criado com foco na experiência do usuário, conversão de leads e apresentação profissional dos trabalhos realizados.
 
 **Cliente**: Pedro Campos - Produtor Audiovisual  
-**Agência**: Agência de IA - Alexandro Granja  
+**Agência**: [Aiverse Technologies](https://aiverse-technologies.up.railway.app/)  
 **Tipo**: Portfólio Profissional Responsivo
 
 ## ✨ Características Principais
@@ -97,7 +97,7 @@ PortFolio-Pedro/
 
 - **WhatsApp**: (21) 97930-4266
 - **Instagram**: [@pedrocampos_rec](https://instagram.com/pedrocampos_rec)
-- **Desenvolvedor**: [@alexsandrogranja](https://instagram.com/alexsandrogranja)
+- **Agência**: [Aiverse Technologies](https://aiverse-technologies.up.railway.app/)
 
 ## 🎯 Funcionalidades Técnicas
 
@@ -147,7 +147,7 @@ Para personalizar o portfólio:
 
 ## 🏢 Sobre a Agência
 
-Este portfólio foi desenvolvido pela **Agência de IA** como um projeto profissional para Pedro Campos. Nossa agência especializa-se em:
+Este portfólio foi desenvolvido pela **Aiverse Technologies** como um projeto profissional para Pedro Campos. Nossa agência especializa-se em:
 
 - 🤖 **Soluções de IA** para automação e otimização
 - 💻 **Desenvolvimento Web** moderno e responsivo
@@ -157,10 +157,10 @@ Este portfólio foi desenvolvido pela **Agência de IA** como um projeto profiss
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido exclusivamente para Pedro Campos pela Agência de IA. Todos os direitos reservados.
+Este projeto foi desenvolvido exclusivamente para Pedro Campos pela Aiverse Technologies. Todos os direitos reservados.
 
 ---
 
-**Desenvolvido por [Agência de IA - Alexandro Granja](https://instagram.com/alexsandrogranja)**
+**Desenvolvido por [Aiverse Technologies](https://aiverse-technologies.up.railway.app/)**
 
-*Projeto profissional da Agência de IA - Especializada em soluções web modernas e inteligentes para profissionais criativos.*
+*Projeto profissional da Aiverse Technologies — soluções web modernas e inteligentes para profissionais criativos.*
